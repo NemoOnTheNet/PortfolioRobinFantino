@@ -6,26 +6,26 @@
     <meta name="description" content="Portfolio de Robin Fantino" />
     <title>Robin Fantino - Accueil</title>
 
-    <link rel="stylesheet" href="../style.css" />
-    <link rel="icon" href="../assets/RFfavicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="icon" href="./assets/RFfavicon.png" type="image/x-icon" />
   </head>
   <body>
     <header>
-      <a id="linkLogo" href="../index.html">
-        <img id="logo" src="../Robin Fantino.png" alt="initial Robin Fantino" />
+      <a id="linkLogo" href="./index.html">
+        <img id="logo" src="./Robin Fantino.png" alt="initial Robin Fantino" />
       </a>
 
       <nav class="navBar">
-        <a class="navBarLink" href="../index.html">Accueil</a>
-        <a class="navBarLink" href="../pages/curriculum.html"
+        <a class="navBarLink" href="./index.html">Accueil</a>
+        <a class="navBarLink" href="./curriculum.html"
           >Curriculum Vitae</a
         >
-        <a class="navBarLink" href="../pages/projet.html">Projet</a>
+        <a class="navBarLink" href="./projet.html">Projet</a>
       </nav>
     </header>
 
-    <main>
-      <section id="about">
+    <main id="mainCurriculum">
+      <section id="about" class="curriculumMainSection">
         <h1>A propos de moi</h1>
         <p>
           Après une licence STAPS (Sciences et Techniques des Activités
@@ -41,13 +41,13 @@
         <p>
           Cliqué ici pour obtenir
           <a
-            href="../document/CV_Robin_Fantino.pdf"
+            href="./document/CV_Robin_Fantino.pdf"
             download="CV_Robin_Fantino.pdf"
             >mon CV</a
           >
         </p>
       </section>
-      <section class="experience">
+      <section class="experience" class="curriculumMainSection">
         <h2>Expériences Professionnelles</h2>
         <h3>Développeur web Junior - Wild Code School</h3>
         (2023-2024)
@@ -140,13 +140,11 @@
       </section>
     </main>
 
-    <footer>
-      <div>
-        <h3>Ressource</h3>
-      </div>
-      <div>
-        <h3>Retrouvez-moi sur ...</h3>
+   <footer>
+      <p><b>Ressource</b></p>
 
+      <article>
+        <p><b>Retrouvez-moi sur ...</b></p>
         <a
           href="https://github.com/NemoOnTheNet"
           target="_blank"
@@ -159,14 +157,14 @@
           title="lien vers linkedIn"
           ><img src="./assets/linkedin.png" alt="lien vers mon github"
         /></a>
-      </div>
+      </article>
 
       <p>
-        Toute reproduction est interdite sans autorisation.
-        <br />
-        Site créé et administré par Robin Fantino.
+        Toute reproduction est interdite sans autorisation. Site créé et
+        administré par Robin Fantino.
       </p>
     </footer>
+
 
     <script src="./script.js"></script>
   </body>
