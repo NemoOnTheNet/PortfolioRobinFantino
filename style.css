@@ -1,0 +1,149 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+}
+
+body {
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  width: 100%;
+}
+
+#linkLogo {
+  flex: 2;
+}
+
+#logo {
+  width: 340px;
+  padding: 10px;
+}
+
+.navBar {
+  display: flex;
+  flex: 1;
+  justify-content: space-evenly;
+  padding: 10px 0 10px 0;
+}
+
+.navBarLink {
+  text-decoration: none;
+  color: black;
+}
+
+nav a:hover {
+  text-decoration-line: underline;
+  color: lightslategrey;
+}
+
+main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#prez {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background-image: url("./assets/accueilImg.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+h1 {
+  font-size: clamp(32px, 5vw, 64px);
+  font-weight: bolder;
+  padding: 32px;
+}
+h2 {
+  font-size: 48px;
+  padding: 32px;
+  font-weight: bold;
+}
+
+.mainH3 {
+  font-size: 32px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.mainSection {
+  padding: 10px;
+}
+
+footer {
+  border-top: 1px solid lightgray;
+  height: 100px;
+  width: 80%;
+  margin-top: 20px;
+  padding-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 600px) {
+  header {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+  }
+  .navBar {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+  }
+
+  .navBarLink {
+    text-decoration: none;
+    color: black;
+  }
+
+  nav a:hover {
+    text-decoration-line: underline;
+    color: lightslategrey;
+  }
+
+  main {
+    display: flex;
+    flex-direction: column;
+  }
+  h2 {
+    font-size: 16px;
+    padding: 32px;
+  }
+
+  .mainH3 {
+    font-size: 32px;
+    padding: 10px 0 10px 0;
+  }
+
+  .mainSection {
+    padding: 10px;
+    height: 275px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .mainSection a {
+    background-color: coral;
+    width: fit-content;
+    padding: 25px;
+    border-radius: 50px;
+    text-decoration: none;
+    color: black;
+  }
+}
