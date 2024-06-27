@@ -1,5 +1,6 @@
+import "./Projet.css";
 function Projet() {
-  return <p>hello projet</p>;
+  return <div id="Projet"> Je sui le projet</div>;
 }
 
 export default Projet;

@@ -1,0 +1,16 @@
+#aboutMe {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 0 20px 0;
+  width: 100%;
+  height: 25vh;
+  margin-bottom: 10px;
+
+  background-image: url(./assets/lille.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+
+}
