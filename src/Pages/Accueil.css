@@ -1,0 +1,49 @@
+#Accueil {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#mainHome {
+  width: 75%;
+}
+
+.mainSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.mainSection p {
+  font-size: 20px;
+}
+
+.mainSection a {
+  padding: 30px;
+  background-color: coral;
+  width: fit-content;
+  border-radius: 25px;
+  color: black;
+  text-decoration: none;
+}
+
+.mainSection a:hover {
+  color: blueviolet;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 600px) {
+  #Accueil {
+    margin-top: 150px;
+  }
+
+  #mainHome {
+    width: 90%;
+  }
+
+  .mainSection {
+    height: 60vh;
+    margin: 20px 0 20px 0;
+  }
+}
