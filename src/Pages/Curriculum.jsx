@@ -19,7 +19,7 @@ function Curriculum() {
             dans ce domaine à la wild code school.
           </p>
           <p>
-            Cliqué ici pour obtenir
+            Cliqué ici pour obtenir&nbsp;
             <a
               href="./document/CV_Robin_Fantino.pdf"
               download="CV_Robin_Fantino.pdf">
@@ -34,38 +34,38 @@ function Curriculum() {
           <ul>
             <li>
               <strong>ClickTapTaupe:</strong> Création d'un clicker (jeu de
-              navigateur) en HTML, CSS et JavaScript.
+              navigateur) en HTML, CSS et JavaScript.&nbsp;
               <a
                 href="https://nemoonthenet.github.io/clicTapTaupe_clicker/"
                 target="_blank">
-                Lien vers le projet
+                Lien vers le github du projet
               </a>
             </li>
             <li>
               <strong>STYX:</strong> Création d'un site de découverte du Système
-              Solaire.
+              Solaire.&nbsp;
               <a
                 href="https://github.com/WildCodeSchool/2023-09-JS-Lille-blue-project-2-groupe2-stix"
                 target="_blank">
-                Lien vers le projet
+                Lien vers le github du projet
               </a>
             </li>
             <li>
               <strong>Eating NamNam:</strong> Création d’un site de partage de
-              recette.
+              recette.&nbsp;
               <a
                 href="https://github.com/WildCodeSchool/2022-09-JS-Lille-project-3-g3-origin"
                 target="_blank">
-                Lien vers le projet
+                Lien vers le github du projet
               </a>
             </li>
             <li>
               <strong>MakeAPP:</strong> projet de commercial virtuel pour
-              l’Oréal Paris.
+              l’Oréal Paris.&nbsp;
               <a
                 href="https://github.com/NemoOnTheNet/LorealSalesRepresentative"
                 target="_blank">
-                Lien vers le projet
+                Lien vers le github du projet
               </a>
             </li>
           </ul>
