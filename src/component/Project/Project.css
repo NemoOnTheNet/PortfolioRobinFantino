@@ -1,0 +1,14 @@
+.projectCard {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  padding: 20px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .projectCard {
+    width: 100%;
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "siteImg": "./assets/clicktaptaupe.png",
+    "projectName": "clickTapTaupe",
+    "title": "ClickeTapTaupe",
+    "description": "Jeu sur navigateur dont l'objetif est d'accumulé un maximum de point"
+  },
+  {
+    "id": 2,
+    "siteImg": "./assets/stix.png",
+    "projectName": "stix",
+    "title": "Stix",
+    "description": "Site de découverte du système solaire avec un objetif de le rendre interactif et ludique pour des enfants"
+  },
+  {
+    "id": 3,
+    "siteImg": "./assets/eatingnamnam.png",
+    "projectName": "eatingNamNam",
+    "title": "Eating Nam Nam",
+    "description": "Site de partage de recette de cuisine"
+  }
+]

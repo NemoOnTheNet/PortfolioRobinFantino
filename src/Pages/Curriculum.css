@@ -1,5 +1,4 @@
 #Curriculum {
-  margin-top: 120px;
   display: flex;
   justify-content: center;
 }
@@ -29,14 +28,5 @@
 }
 
 @media screen and (max-width: 600px) {
-  #Curriculum {
-    margin-top: 180px;
-  }
-
-  main {
-    width: 90%;
-    display: flex;
-    flex-direction: column;
-  }
 
 }
