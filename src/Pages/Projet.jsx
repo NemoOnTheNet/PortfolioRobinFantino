@@ -13,6 +13,7 @@ function Projet() {
             siteImg={proj.siteImg}
             projectName={proj.projectName}
             description={proj.description}
+            githubLink={proj.githubLink}
           />
         ))}
       </section>
