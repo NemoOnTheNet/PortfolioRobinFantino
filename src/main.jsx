@@ -16,12 +16,12 @@ const router = createBrowserRouter([
       },
 
       {
-        path: "/Curriculum",
+        path: "/curriculum",
         element: <Curriculum />,
       },
 
       {
-        path: "/Projet",
+        path: "/projet",
         element: <Projet />,
       },
     ],

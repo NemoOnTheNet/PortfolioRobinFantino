@@ -1,5 +1,4 @@
 #Accueil {
-  margin-top: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -34,9 +33,7 @@
 }
 
 @media screen and (max-width: 600px) {
-  #Accueil {
-    margin-top: 150px;
-  }
+
 
   #mainHome {
     width: 90%;

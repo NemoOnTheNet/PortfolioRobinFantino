@@ -38,7 +38,7 @@ function Curriculum() {
               <a
                 href="https://nemoonthenet.github.io/clicTapTaupe_clicker/"
                 target="_blank">
-                Lien vers le github du projet
+                Lien github
               </a>
             </li>
             <li>
@@ -47,7 +47,7 @@ function Curriculum() {
               <a
                 href="https://github.com/WildCodeSchool/2023-09-JS-Lille-blue-project-2-groupe2-stix"
                 target="_blank">
-                Lien vers le github du projet
+                Lien github
               </a>
             </li>
             <li>
@@ -56,7 +56,7 @@ function Curriculum() {
               <a
                 href="https://github.com/WildCodeSchool/2022-09-JS-Lille-project-3-g3-origin"
                 target="_blank">
-                Lien vers le github du projet
+                Lien github
               </a>
             </li>
             <li>
@@ -65,7 +65,7 @@ function Curriculum() {
               <a
                 href="https://github.com/NemoOnTheNet/LorealSalesRepresentative"
                 target="_blank">
-                Lien vers le github du projet
+                Lien github
               </a>
             </li>
           </ul>
