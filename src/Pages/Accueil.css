@@ -32,6 +32,10 @@
   text-decoration: underline;
 }
 
+.mainH3{
+  font-size: 25px;
+}
+
 @media screen and (max-width: 600px) {
 
 

@@ -18,7 +18,7 @@ function Accueil() {
           <p>
             C'est ainsi que j'ai commencé une formation intensive à la Wild Code
             School de Lille et, ayant obtenu le Titre de développeur Web et Web
-            mobil, j'ai poursuivit ma formation en autodidacte.
+            mobile, j'ai poursuivit ma formation en autodidacte.
           </p>
           <Link to={`/curriculum`} className="mainSectionLink">
             Voir mon profil et CV
@@ -28,12 +28,12 @@ function Accueil() {
         <section className="mainSection" id="mesProjets">
           <h3 className="mainH3">Mes différents projets</h3>
           <p>
-            Lors de ma formation à la wild code school et mes par mes projets
-            personnels, j'ai pu m'exercé dans le développement et ainsi
-            développer une expertise dans le domaine.
+            Durant ma formation à la Wild Code School et de par mes projets
+            personnels, j'ai pu faire l'expérience du développement web et ainsi
+            obtenir de solides connaissances dans le domaine.
           </p>
           <p>
-            Vous trouverez en cliquant sur le lien ci-dessous les projets sus
+            Vous trouverez en cliquant sur le lien ci-dessous les projets
             mentionnés.
           </p>
           <Link to={`/projet`}>Voir mes projets</Link>
