@@ -23,7 +23,7 @@ function Footer() {
       </article>
 
       <p>
-        Contactez moi en cliquant{" "}
+        Contactez-moi en cliquant{" "}
         <a href="mailto:robin.fantino.rf@gmail.com">ici</a>
       </p>
 
