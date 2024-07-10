@@ -7,6 +7,8 @@ header {
   box-shadow: 0px 10px 10px 1px rgba(0, 0, 0, 0.2);
   width: 100%;
 
+  margin-bottom: 25px;
+
 }
 
 #linkLogo {
@@ -28,12 +30,14 @@ header {
 .navBarLink {
   text-decoration: none;
   color: black;
-  padding: 10px;
+  padding: 30px;
 }
 
 nav a:hover {
   text-decoration-line: underline;
   color: lightslategrey;
+  background-color: coral;
+  border-radius: 20px;
 }
 
 @media screen and (max-width: 600px) {

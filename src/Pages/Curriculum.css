@@ -9,11 +9,11 @@
   flex-direction: column;
 }
 
-#mainCurriculum img {
+#pictureOfMe {
   align-self: center;
   margin: 25px 0 25 0;
   border-radius: 70%;
-  border: 20px solid lightgrey;
+  border: 20px solid coral;
 }
 
 .curriculumMainSection {
@@ -27,6 +27,41 @@
   padding: 50px 0 50px 0;
 }
 
-@media screen and (max-width: 600px) {
+.cvLink:hover {
+  text-decoration-line: underline;
+  background-color: coral;
+  border-radius: 20px;
+  padding: 20px 5px 20px 5px;
+}
 
+#diplomePicture {
+  width: 150px;
+  height: 150px;
+  border: 10px solid black;
+  border-radius: 70%;
+  padding: 10px;
+  align-self: center;
+  margin-top: 40px;
+}
+
+#experiencePicture {
+  width: 150px;
+  height: 150px;
+  border: 10px solid black;
+  border-radius: 70%;
+  padding: 10px;
+  align-self: center;
+  margin-top: 40px;
+}
+
+.educationItem {
+  display: flex;
+  flex-direction: center;
+}
+
+a {
+  color: coral;
+}
+
+@media screen and (max-width: 600px) {
 }
