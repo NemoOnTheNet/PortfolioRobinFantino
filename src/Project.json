@@ -4,7 +4,7 @@
     "siteImg": "./assets/clicktaptaupe.png",
     "projectName": "clickTapTaupe",
     "title": "ClickeTapTaupe",
-    "description": "Jeu sur navigateur dont l'objetif est d'accumulé un maximum de point",
+    "description": "Jeux sur navigateur dont l'objectif est d'accumuler un maximum de points",
     "githubLink": "https://github.com/NemoOnTheNet/clicTapTaupe_clicker"
   },
   {
@@ -12,7 +12,7 @@
     "siteImg": "./assets/stix.png",
     "projectName": "stix",
     "title": "Stix",
-    "description": "Site de découverte du système solaire avec un objetif de le rendre interactif et ludique pour des enfants",
+    "description": "Site de découverte du système solaire avec pour objectif de le rendre interactif et ludique pour les enfants.",
     "githubLink": "https://github.com/WildCodeSchool/2023-09-JS-Lille-blue-project-2-groupe2-stix"
   },
   {
@@ -20,7 +20,7 @@
     "siteImg": "./assets/eatingnamnam.png",
     "projectName": "eatingNamNam",
     "title": "Eating Nam Nam",
-    "description": "Site de partage de recette de cuisine",
+    "description": "Site de partage de recettes de cuisine.",
     "githubLink": "https://github.com/WildCodeSchool/2022-09-JS-Lille-project-3-g3-origin"
   }
 ]

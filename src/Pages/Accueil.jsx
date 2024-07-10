@@ -10,15 +10,15 @@ function Accueil() {
         <section className="mainSection" id="monParcours">
           <h3 className="mainH3">Mon parcours</h3>
           <p>
-            Après une licence Staps et plusieurs années à travailler dans la
+            Après une licence STAPS et plusieurs années à travailler dans la
             grande distribution du bricolage, j'ai souhaité me reconvertir dans
-            ce qui me passionne bien plus, le développement.
+            ce qui me passionne bien plus : le développement.
           </p>
 
           <p>
             C'est ainsi que j'ai commencé une formation intensive à la Wild Code
-            School de Lille et, ayant obtenu le Titre de développeur Web et Web
-            mobile, j'ai poursuivit ma formation en autodidacte.
+            School de Lille et, ayant obtenu le titre de Développeur Web et Web
+            Mobile, j'ai poursuivi ma formation en autodidacte.
           </p>
           <Link to={`/curriculum`} className="mainSectionLink">
             Voir mon profil et CV
@@ -28,7 +28,7 @@ function Accueil() {
         <section className="mainSection" id="mesProjets">
           <h3 className="mainH3">Mes différents projets</h3>
           <p>
-            Durant ma formation à la Wild Code School et de par mes projets
+            Durant ma formation à la Wild Code School et grâce à mes projets
             personnels, j'ai pu faire l'expérience du développement web et ainsi
             obtenir de solides connaissances dans le domaine.
           </p>
